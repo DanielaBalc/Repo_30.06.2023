@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chalenge BT code Crafte app/1.0.0": {
+        "runtime": {
+          "Chalenge BT code Crafte app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chalenge BT code Crafte app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
